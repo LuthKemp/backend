@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  dateOfEvent: 2017-06-19
+  title: MyString
+  address: MyString
+  contactPerson: MyString
+  descrition: MyString
+  email: MyString
+  show: false
+
+two:
+  dateOfEvent: 2017-06-19
+  title: MyString
+  address: MyString
+  contactPerson: MyString
+  descrition: MyString
+  email: MyString
+  show: false
